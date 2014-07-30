@@ -1,6 +1,6 @@
 ## Refactoring to ActiveRecord
 
-[Fish.ly?](https://github.com/gSchool/basic-sinatra-crud-ar) is back!
+[Fish.ly](https://github.com/gSchool/basic-sinatra-crud-ar) is back!
 
 This time, you are inheriting a code base that was written by a consulting company.
 The only problem is that none of them had heard about ActiveRecord! Your goal for this
