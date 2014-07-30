@@ -5,7 +5,6 @@ feature "Registration and authentication" do
     visit "/"
 
     click_link "Register"
-
     click_button "Register"
 
     expect(page).to have_content "Username is required"
